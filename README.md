@@ -2,4 +2,4 @@
 
 To start app run:
 
-### `yarn star`
+### `yarn start`
